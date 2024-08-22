@@ -6,10 +6,12 @@ title: "Home"
 
 
 Hello everyone! 
-I am a postdoctoral researcher at the Technical University of Munich (TUM), where I successfully defended my Ph.D. in May 2024. I currently work with Professor Yannis Theocharis at the Chair of Digital Governance. I am also a member of European Communication Research and Education Association (ECREA) mentoring program. 
+I am a postdoctoral researcher at the Technical University of Munich (TUM), where I successfully defended my Ph.D. in May 2024. I currently work with Professor Yannis Theocharis at the Chair of Digital Governance. [link](https://www.hfp.tum.de/digitalgovernance/startseite/) I am also a member of European Communication Research and Education Association (ECREA) mentoring program. 
 
 My academic background spans sociology, media communication, and political science, and I am particularly interested in researching how technology influences immigrant integration and the information environment.
 
 Originally from Seoul, South Korea, I moved to Mannheim, Germany, for my master's and have since continued my academic career here in Germany.
+
+You can contact me via [email](so.jin@tum.de).
 
 ![](images/meshaki.JPG){width=400px}

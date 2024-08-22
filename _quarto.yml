@@ -9,13 +9,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: files/CV.pdf
+        text: CV
       - publication.qmd
       - teaching.qmd
       - Extra.qmd
     tools:
       - icon: twitter
         href: https://x.com/SoyeonJin3
+      - icon: github
+        href: https://github.com/sojin3
+      - icon: google-scholar
+        href: https://scholar.google.com/citations?user=AaxICu8AAAAJ&hl=en&authuser=1 
+      - icon: twitter
+        href: https://x.com/SoyeonJin3
+      - icon: bluesky
+        href: https://bsky.app/profile/soyeonjin3.bsky.social
 
 format:
   html:
