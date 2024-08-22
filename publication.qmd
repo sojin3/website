@@ -2,4 +2,22 @@
 title: "Publications"
 ---
 
-what?! 
+
+
+# Journal articles
+
+- **Jin, S. (2024).** Why Is Immigration Important to You? A Revisit To Public Issue Salience and Elite Cues. *European Journal of Political Research.* 
+
+- **Jin, S., Zilinsky, J., Pradel, F., & Theocharis, Y. (2024).** Beliefs in Conspiracy Theories and Online News Consumption during the onset of the COVID-19 pandemic. *Journal of Quantitative Description: Digital Media, 4.*
+
+- **Matthes, J., Corbu, N., Jin, S., et al. (2023).** Perceived prevalence of misinformation fuels worries about COVID-19: a cross-country, multi-method investigation. *Information, Communication & Society, 26*(16), 3133-3156.
+
+- **Theocharis, Y., Cardenal, A., Jin, S., et al. (2023).** Does the platform matter? Social media and COVID-19 conspiracy theory beliefs in 17 countries. *New Media & Society, 25*(12), 3412-3437.
+
+# Under Review
+
+- **Third Person Perceptions about Misinformation Detection: Evidence from 18 Countries** with Corbu, N., et al. *(R&R, 2nd round, Mass Communication and Society).*
+
+# Working Papers
+
+- **Beyond Polarization: A New Framework for Understanding Dynamics in the Public’s Online Political Discussions.** *(Single-author paper)*
