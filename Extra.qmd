@@ -1,0 +1,72 @@
+---
+title: "Extra"
+format:
+  html:
+    css: styles.css
+---
+
+# Feminism, Feminism, and Feminism! 
+
+## Women on Web 
+
+### Liberate online abortion information now! (2024)
+
+<div class="Extra-block">
+  <img src="images/wow.png" alt="Extra Image" style="width:400px; margin-right: 15px;">
+  <div>   
+Women on Web is a Canadian non-profit organization and online abortion service that provides information about sexual and reproductive health rights and supports access to safe abortion pills in nearly 200 countries. However, the Korea Communications Standards Commission (KCSC) blocked Women on Web's website, hindering the free flow of information about safe abortion options. In 2024, Women on Web launched a campaign to criticize the KCSC’s decision and raise awareness about their services. I contributed to the campaign as an illustrator.
+  </div>
+</div>
+
+If you or someone you know needs access to a safe abortion, you can learn more by visiting the following link:
+   [Women on web](https://www.womenonweb.org/en/)
+
+## The Education Project for the Teenagers against Cyber-Sexual Harassment
+
+### 같이가치 청소년 인식개선 소책자 배부사업 (2017) 
+
+<div class="Extra-block">
+  <img src="images/ksvrc.png" alt="Extra Image" style="width:400px; margin-right: 15px;">
+  <div>   
+The Korean Cyber Sexual Violence Response Center, Daum-Kakao, and Simi Corporation launched an educational program to raise awareness among teenagers about the dangers of cyber-sexual harassment. I participated as both a project manager and illustrator, creating educational materials designed to be easily understood by teenagers.
+   [Learn more](https://www.hankookilbo.com/News/Read/201805241262737766)
+  </div>
+</div>
+
+## Artist 'Lang Lee' Exhibition 
+
+### 일 더하기 이랑은 삶(2017)
+
+![](images/langlee.png){width=800px align=left margin-right=15px}
+
+I participated as a project manager in the exhibition of artist Lang Lee. It was an honor to have the opportunity to organize the event, especially as a fan of Lang Lee’s work. [Learn more](https://www.facebook.com/YouAreWhatYouRead1979/posts/781557672022965)
+
+
+---
+
+## The Women Labor Force Campaign: Women in Supermarkets
+
+### 민우회 우리동네 마트액션 : 당연한 의자 캠페인 (2016)
+
+<div class="Extra-block">
+  <img src="images/chair.png" alt="Extra Image" style="width:400px; margin-right: 15px;">
+  <div>   
+   In 2016, Womenlink launched a campaign to guarantee the ‘right to sit’ for women working in supermarkets. In South Korea, the majority of supermarket workers are middle-aged women. Despite working full-time, many of them are not allowed to sit during their shifts because some customers complain that sitting makes them appear arrogant. Our campaign aimed to challenge this perception and highlight that these workers are human beings who endure physical pain. I contributed to the campaign as an illustrator.
+   [Learn more](https://www.womenlink.or.kr/minwoo_actions/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTQ7fQ%3D%3D&bmode=view&idx=28807218&t=board)
+  </div>
+</div>
+
+---
+
+## The Women Body Project: The Reality of the Plastic Surgery Industry in Korea
+
+### 민우회 성형산업스파이 캠페인 (2015)
+
+<div class="Extra-block">
+  <img src="images/min.png" alt="Extra Image" style="width:400px; margin-right: 15px;">
+  <div>   
+   As a member of one of South Korea’s oldest feminist organizations, “Womenlink,” I participated in a project investigating the current state of the plastic surgery industry, serving as both a researcher and illustrator. Our team explored the industry’s structure by collecting online advertisements, interviewing industry workers and victims, and creating content that exposed the issues within this sector.
+   [Learn more](https://www.womenlink.or.kr/minwoo_actions/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Nzt9&bmode=view&idx=28806964&t=board)
+  </div>
+</div>
+

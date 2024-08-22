@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Soyeon Jin"
+  navbar:
+    search: false
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publication.qmd
+      - teaching.qmd
+      - Extra.qmd
+    tools:
+      - icon: twitter
+        href: https://x.com/SoyeonJin3
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
