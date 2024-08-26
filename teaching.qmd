@@ -2,6 +2,24 @@
 title: "Teaching"
 ---
 
-I hate teaching. 
-Self study is more than enough. 
-Ask ChatGPT. 
+I have taught both substantive and methods courses. 
+
+Below is a list of the courses I am currently teaching & taught.
+
+# Current courses 
+
+- (SOT86094) – Political Information Processing and Incivility (MA): 3 ECTS
+- (SOT82113) - Introduction to the Study of Immigration: Theory and Methods (BA): 6 ECTS
+
+# Previous courses 
+- Technical University of Munich (TUM)
+    - (POL27001) Replication in Social Science Research	(BA)
+    - (SOT866006) Political misinformation and identity politics (MA)
+
+- Teaching ERASMUS program (2023)
+    - Department of Communication, University of Vienna (Vienna, Austria)  
+    - How to write a scientific paper (BA)
+    - Collaboration in academia (MA)
+
+- University of Bremen (2019) 
+    - Introduction to Quantitative Research Design and Data Analysis (BA)  

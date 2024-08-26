@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-# Things I do outside academia...
+# Things I do outside academia... :) 
 
 ## Women on Web 
 
@@ -57,7 +57,7 @@ I participated as a project manager in the exhibition of artist Lang Lee. It was
 
 ### 민우회 성형산업스파이 캠페인 (2015)
 
-![](images/chair.png){width=800px align=left margin-right=15px}
+![](images/min.png){width=800px align=left margin-right=15px}
 
    As a member of one of South Korea’s oldest feminist organizations, “Womenlink,” I participated in a project investigating the current state of the plastic surgery industry, serving as both a researcher and illustrator. Our team explored the industry’s structure by collecting online advertisements, interviewing industry workers and victims, and creating content that exposed the issues within this sector.
    [Learn more](https://www.womenlink.or.kr/minwoo_actions/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Nzt9&bmode=view&idx=28806964&t=board)
