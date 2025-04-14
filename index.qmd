@@ -1,7 +1,7 @@
 ---
 title: "Home"
 ---
-![](images/1-ed62b9aa.png){width=600px}
+![](images/1-ed62b9aa2.png){width=600px}
 
 Hello everyone! 
 I am a postdoctoral researcher at the Technical University of Munich (TUM), where I successfully defended my Ph.D. in May 2024. I currently work with Professor Yannis Theocharis at the Chair of Digital Governance ([link](https://www.hfp.tum.de/digitalgovernance/startseite/)). I am also a member of European Communication Research and Education Association (ECREA) mentoring program. 
