@@ -7,7 +7,6 @@ title: "Publications"
 # Journal articles
 - **Corbu, N., Halagiera, D., Jin, S., et al. (2025)** Illusory superiority about misinformation detection and its relationship to knowledge and fact-checking intentions: Evidence from 18 countries. *Mass Communication & Society*, Forthcoming.  
 
-
 - **Jin, S. (2024).** Why Is Immigration Important to You? A Revisit To Public Issue Salience and Elite Cues. *European Journal of Political Research.* [Open access](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12708 ) 
 
 - **Jin, S., Zilinsky, J., Pradel, F., & Theocharis, Y. (2024).** Beliefs in Conspiracy Theories and Online News Consumption during the onset of the COVID-19 pandemic. *Journal of Quantitative Description: Digital Media, 4.* [link](https://journalqd.org/article/view/3318) 
@@ -20,3 +19,4 @@ title: "Publications"
 # Working Papers
 
 - **Beyond the Ballot: Media Consumption and Immigrants’ Political Participation in Germany** *(Single-author paper)*
+
