@@ -1,0 +1,43 @@
+/* css styles */
+h2 {
+    font-size: 1.5em;
+    margin-top: 2em;
+    color: #333;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  img {
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  div.clearboth {
+    clear: both;
+  }
+  
+  hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 2em 0;
+  }
+  
+
+  .Extra-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .Extra-block img {
+    width: 300px;
+    margin-right: 20px;
+  }
+  
+  .Extra-block p {
+    margin: 0;
+  }
