@@ -5,18 +5,7 @@ format:
     css: styles.css
 ---
 
-# Things I do outside academia... :) 
-
-## Women on Web 
-
-### Liberate online abortion information now! (2024)
-
-![](images/wow.png){width=800px align=left margin-right=15px}
-
-Women on Web is a Canadian non-profit organization and online abortion service that provides information about sexual and reproductive health rights and supports access to safe abortion pills in nearly 200 countries. However, the Korea Communications Standards Commission (KCSC) blocked Women on Web's website, hindering the free flow of information about safe abortion options. In 2024, Women on Web launched a campaign to criticize the KCSC’s decision and raise awareness about their services. I contributed to the campaign as an illustrator.
-
-If you or someone you know needs access to a safe abortion, you can learn more by visiting the following link:
-   [Women on web](https://www.womenonweb.org/en/)
+# Things I do outside academia...  
 
 ## The Education Project for the Teenagers against Cyber-Sexual Harassment
 
