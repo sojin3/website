@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: files/Curriculum_Vitae_Public.pdf
+      - href: files/CV.pdf
         text: CV
       - publication.qmd
       - teaching.qmd
