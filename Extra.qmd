@@ -7,6 +7,14 @@ format:
 
 # Things I do outside academia...  
 
+## International Organization for Migration (IOM) Consultancy 
+
+### 국제이주기구IOM 협업
+
+![](images/IOM_Logo.png){width=800px align=left margin-right=15px}
+
+Developed a public awareness initiative for the International Organization for Migration (IOM) focused on key migration issues, including conflict, climate change, disasters, and human trafficking. The work also communicated IOM’s mandate and impact while integrating contextual, non-intrusive recognition of the Republic of Korea’s support for IOM programmes.
+
 ## The Education Project for the Teenagers against Cyber-Sexual Harassment
 
 ### 같이가치 청소년 인식개선 소책자 배부사업 (2017) 

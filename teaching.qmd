@@ -8,13 +8,15 @@ Below is a list of the courses I am currently teaching & taught.
 
 # Current courses 
 
-- (SOT86094) – Political Information Processing and Incivility (MA): 3 ECTS
-- (SOT82113) - Introduction to the Study of Immigration: Theory and Methods (BA): 6 ECTS
+- 20005  Kleine Exkursion München 3-tägig 
+- 20186 (M.Sc.) Scientific Tools I: Sustainability Assessment
 
 # Previous courses 
 - Technical University of Munich (TUM)
     - (POL27001) Replication in Social Science Research	(BA)
+    - (SOT86094) – Political Information Processing and Incivility (MA): 3 ECTS
     - (SOT866006) Political misinformation and identity politics (MA)
+    - (SOT82113) - Introduction to the Study of Immigration: Theory and Methods (BA): 6 ECTS
 
 - Teaching ERASMUS program (2023)
     - Department of Communication, University of Vienna (Vienna, Austria)  
