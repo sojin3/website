@@ -1,7 +1,7 @@
 ---
 title: "Home"
 ---
-![](images/website.jpeg){width=600px}
+![](images/website.jpg){width=600px}
 
 Hello everyone! 
 I am a postdoctoral researcher at Ludwig-Maximilians-Universität München (LMU). I currently work with Professor Imke Hoppe at the Chair of Science communication and climate education ([link](https://www.geo.lmu.de/geographie/en/research/science-communication-and-climate-education/)). 
